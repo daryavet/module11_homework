@@ -1,0 +1,19 @@
+{
+  "name": "jest-hw",
+  "version": "1.0.0",
+  "description": "skillfactory-hw-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "js",
+    "test"
+  ],
+  "author": "Daria <daryayo@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
